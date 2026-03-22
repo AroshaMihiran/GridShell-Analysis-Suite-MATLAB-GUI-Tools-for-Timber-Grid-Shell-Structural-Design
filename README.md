@@ -99,4 +99,6 @@ Both tools generate a timestamped output folder containing:
 ![Design Examples](Images/Designexamples1.png)
 ![Design Examples](Images/Designexamples2.png)
 
+## References
+Y. Jiang, T. Zegard, W. F. Baker, and G. H. Paulino, “Form-finding of grid-shells using the ground structure and potential energy methods: a comparative study and assessment,” Structural and Multidisciplinary Optimization, vol. 57, no. 3, pp. 1187–1211, Mar. 2018, doi: 10.1007/s00158-017-1804-3.
 
