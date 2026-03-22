@@ -88,9 +88,11 @@ Both tools generate a timestamped output folder containing:
 
 ## Screenshots
 
+### Form Finding Tool (FFT)
 ![FFT Interface](Images/FFT_Interface.png)
+
+### Coupled Analysis Tool (CAT)
 ![CAT Interface](Images/CAT_Interface.png)
----
 
 ## License
 
