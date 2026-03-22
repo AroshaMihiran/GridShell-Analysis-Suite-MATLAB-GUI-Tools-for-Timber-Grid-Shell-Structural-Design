@@ -19,16 +19,9 @@ The CAT extends the workflow to address the fundamental problem of uncoupled sti
 ### Key Features
 
 - Three-panel GUI: interactive controls, editable data tables, and real-time 3D visualisation
-- 3D ray-casting node and edge selection from any camera angle
 - Per-member material property and cross-sectional area assignment
-- User-defined colour-coded material and load pattern visualisation
-- Free/fixed node designation at creation time
-- Orthogonal and diagonal auto-connectivity options
 - Automated panel detection with individual load pattern assignment
-- Input validation with detailed error reporting
-- 30-step undo history
 - Full CSV import/export for interoperability with external solvers
-- Automatic PNG image export of configurations and analysis results
 
 ---
 
