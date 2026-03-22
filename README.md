@@ -95,7 +95,7 @@ Both tools generate a timestamped output folder containing:
 ![CAT Interface](Images/CAT_Interface.png)
 
 ## Design Examples
-###(a) Initial flat grid-shell layout with load pattern and cross-sectional area assignments, (b) resultant plots from the form-finding analysis, (c) resultant plots from the coupled analysis.
+### (a) Initial flat grid-shell layout with load pattern and cross-sectional area assignments, (b) resultant plots from the form-finding analysis, (c) resultant plots from the coupled analysis.
 ![Design Examples](Images/Designexamples1.png)
 ![Design Examples](Images/Designexamples2.png)
 
