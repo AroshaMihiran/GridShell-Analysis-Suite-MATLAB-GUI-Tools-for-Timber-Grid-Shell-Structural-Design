@@ -101,8 +101,11 @@ Both tools generate a timestamped output folder containing:
 
 ## References
 Y. Jiang, T. Zegard, W. F. Baker, and G. H. Paulino, “Form-finding of grid-shells using the ground structure and potential energy methods: a comparative study and assessment,” Structural and Multidisciplinary Optimization, vol. 57, no. 3, pp. 1187–1211, Mar. 2018, doi: 10.1007/s00158-017-1804-3.
+
 S. Adriaenssens, L. NEY, E. BODARWE, and C. Williams, “Dutch Maritime Museum: Form-finding of an irregular faceted skeletal shell - Part b,” Jan. 2010.
+
 S. Adriaenssens, P. Block, D. Veenendaal, and C. Williams, Eds., Shell Structures for Architecture: Form Finding and Optimization. London: Routledge, 2014. doi: 10.4324/9781315849270.
+
 Y. Jiang, “Free form finding of grid shell structures,” text, University of Illinois at Urbana-Champaign, 2015. Accessed: Sep. 17, 2025. [Online]. Available: https://hdl.handle.net/2142/89080
 
 
